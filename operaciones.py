@@ -8,4 +8,5 @@ division = numero1 + numero2
 print("LA SUMA DE LOS NUMEROS ES:",suma)
 print("LA RESTA DE LOS NUMEROS ES", resta)
 print("LA MULTIPLICACION DE LOS NUMEROS ES", multiplicacion)
-print("LA RDIVISION DE LOS NUMEROSCES", division)
+print("LA DIVISION DE LOS NUMEROS ES", division)
+print("Cambio")
